@@ -25,3 +25,4 @@ One of the most compelling features of Synapse X is its powerful script executio
 
 <div align="center">
   
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
